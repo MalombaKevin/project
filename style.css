@@ -226,3 +226,5 @@ nav#menu a.cta:hover{background:var(--ink)}
   nav#menu a{color:#fff!important;width:100%}
   nav#menu a.cta{background:var(--gold);width:auto}
 }
+
+.foot a{color:var(--gold);text-decoration:none}.foot a:hover{text-decoration:underline}
